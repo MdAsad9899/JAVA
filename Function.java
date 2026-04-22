@@ -103,7 +103,6 @@
 // Find Product of a & b;
 
 
-<<<<<<< HEAD
 // import java.util.*;
 // public class Function{
 
@@ -492,21 +491,5 @@ public class Function{
         System.out.println(" Enter an integer :-");
         int digits = sc.nextInt();
         System.out.println(" The sum is " + sumDigit(digits));
-=======
-import java.util.*;
-public class Function{
-
-    public static void product(int a , int b){
-        int mult = a*b;
-        System.out.println("a : " + mult);
-    }
-
-    public static void main(String arg[]){
-        // Swap - values exchanges.
-        // int a = 5;
-        // int b = 10;
-
-        product(4, 9);
->>>>>>> origin/master
     }
 }
